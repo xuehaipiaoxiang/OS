@@ -6,7 +6,6 @@
 #define SECTOR_N 512
 
 using std::vector;
-using std::iterator;
 using std::ofstream;
 using std::string;
 
